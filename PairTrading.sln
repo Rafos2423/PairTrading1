@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairTrading", "PairTrading\PairTrading.csproj", "{D8169CF4-F3D2-4EC3-88A9-D5B6BE9F4D4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8169CF4-F3D2-4EC3-88A9-D5B6BE9F4D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8169CF4-F3D2-4EC3-88A9-D5B6BE9F4D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8169CF4-F3D2-4EC3-88A9-D5B6BE9F4D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8169CF4-F3D2-4EC3-88A9-D5B6BE9F4D4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DC63962-4E09-4DB6-9D1F-F09C313DF9E7}
+	EndGlobalSection
+EndGlobal
